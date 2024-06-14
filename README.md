@@ -13,6 +13,9 @@ This project analyzes Netflix data using PostgreSQL and Python to determine the 
 - Common Table Expressions (CTEs)
 - Window Functions
 - Advanced Aggregation
+- Advanced SQL Filtering
+- Subqueries
+- Data Cleaning
 - String Manipulation and Regular Expressions
 - Filtering and Conditional Logic
 - Ranking and Ordering
