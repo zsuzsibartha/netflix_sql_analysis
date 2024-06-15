@@ -1,27 +1,26 @@
 # Netflix Data Analysis
 
 ## Overview
-This project analyzes Netflix data using PostgreSQL and Python to determine the growth in show releases per country. The analysis focuses on releases from 2017 onwards.
+This project analyzes Netflix data using PostgreSQL in a Jupyter notebook.
 
 ## Contents
-- `notebooks/`: Jupyter Notebook containing the SQL queries and Python code.
-- `data/`: Sample dataset or instructions to obtain the data.
+- `netflix_sql_data_analysis.ipynb`: Jupyter Notebook containing the SQL queries and Python code.
+- `netflix_database.csv`: Sample dataset or instructions to obtain the data.
 - `README.md`: Project overview and instructions.
 - `LICENSE`: License information.
 
 ## Included Concepts
+- Filtering and Conditional Logic
+- Ordering and Limiting Results
+- Calculated Columns
+- Subqueries
+- String Manipulation and Regular Expressions
+- Advanced Aggregation
+- Extracting and Truncating Dates
+- Joining and Combining Data
 - Common Table Expressions (CTEs)
 - Window Functions
-- Advanced Aggregation
-- Advanced SQL Filtering
-- Subqueries
-- Data Cleaning
-- String Manipulation and Regular Expressions
-- Filtering and Conditional Logic
-- Ranking and Ordering
-- Joins
-- Performance Optimization
-- Calculated Columns
+- Complex Query Structuring
 
 ## Skills Demonstrated
 - Complex Query Structuring
